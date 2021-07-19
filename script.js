@@ -11,6 +11,7 @@
  document.getElementById('randomView').value=m
  document.getElementById('notifyWrong').style.display='none'
  document.getElementById('notifyRight').style.display='none'
+ document.getElementById('inputPin').value="";
 
 }
   
